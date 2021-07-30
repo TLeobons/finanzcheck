@@ -1,0 +1,133 @@
+.mainFirstSectionContainer {
+  position: relative;
+}
+
+.bgImageStyling {
+  position: absolute;
+  /* max-width: 110%; */
+  width: 100%;
+  height: 100%;
+}
+
+.mainGridStyling {
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+.mainInfoContainer {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mainContentInfoStyle {
+  text-align: center;
+  color: #165297;
+  display: block;
+  text-shadow: none;
+  font-size: 2rem;
+  font-weight: bolder;
+}
+.mainContentInfoStyleContent {
+  font-weight: normal;
+  margin-top: -15px;
+}
+
+.mainFormContainer {
+  height: 440px;
+  background: white;
+  padding-top: 20px;
+  padding-right: 15px;
+  padding-left: 15px;
+  min-width: 360px;
+}
+
+.mainFormInputFieldsContainer {
+  margin-bottom: 30px !important;
+}
+
+.mainFormInputFields {
+  width: 100%;
+  background-color: #f5f6f8;
+}
+
+.formWarningContainer {
+  height: 56px;
+  padding-left: 12px;
+  padding-right: 12px;
+  background-color: rgb(255, 182, 179);
+  padding-top: 5px;
+  border-radius: 4px;
+}
+
+.formWarningHeading {
+  color: black;
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+
+.formWarningContent {
+  margin-top: 4px;
+  font-weight: bolder;
+}
+
+.mainFormSubmitBtnStyling {
+  display: block !important;
+  flex-direction: column;
+  background-color: #f09103 !important;
+  color: white !important;
+}
+
+.arrowSubmitBtn {
+  margin-left: 5px;
+}
+
+.btnContent {
+  font-size: 10px;
+  margin-top: 5px;
+}
+
+.homeCircleContainer {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+}
+
+.homeCircle {
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 200px;
+  height: 200px;
+  background-color: #f09103 !important;
+  border-radius: 100px;
+}
+
+.listContainer {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 55px;
+  width: 200px;
+}
+
+.flexBox {
+  display: flex;
+  padding-left: 45px;
+  margin-bottom: 5px;
+  align-items: center;
+  color: #165297;
+  font-weight: 500;
+}
+
+.checkIcon {
+  color: #90afca;
+}

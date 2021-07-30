@@ -1,0 +1,110 @@
+.flexBoxDisplay{
+  display: flex;
+  justify-content: center;
+}
+
+.centerAlignment{
+  align-items: center;
+}
+
+.sectionTwoGridStyling {
+  margin-left: 65px;
+  margin-right: 65px;
+  margin-top: 30px;
+}
+
+.sectionTwoIconsContainerStyling{
+  margin-left: 20px;
+}
+
+.sectionTwoParaStyle{
+  font-size: .75rem;
+  line-height: 1.33333;
+  margin: 0 0 16px;
+  margin-bottom: 0;
+  margin-top: 16px;
+  color: #7B8A96;
+}
+
+.sectionTwoHeadng{
+  margin-top: 30px;
+  font-size: 1.5rem;
+  line-height: 1.33333;
+  color: #165297;
+}
+
+.sectionItemContainer{
+  min-height: 130px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.sectionTwoCarouselItemToDisplay{
+  width: 170px !important;
+  /* border: 2px solid black; */
+  display: block;
+  margin: 15px;
+}
+
+.sectionTwoRightBorder{
+  border-right: 1px solid #C0C7CD;
+}
+
+.chevronStyling{
+  color: #C0C7CD;
+  font-size: 30px !important;
+  cursor: pointer;
+}
+
+.contentContainer{
+  margin-top: 30px;
+}
+
+.ratingRatio{
+  color: #165297;
+}
+
+.letterSpacing{
+  letter-spacing: 2px
+}
+
+.leftSpacing{
+  margin-left: 10px;
+}
+
+.topMinusMargin{
+  margin-top: -10px;
+}
+
+.leftMinusMargin{
+  margin-left: -5px;
+}
+
+.letterSpacing1Px{
+  letter-spacing: 1px;
+}
+
+.centerAlignmentHeading{
+  margin-left: 65px;
+  margin-right: 65px;
+  text-align: center;
+  color: #165297;
+}
+
+.marginLeftRight{
+  margin-left: 65px;
+  margin-right: 65px;
+  /* text-align: center; */
+  align-items: center;
+}
+.paragraphStyle{
+  max-width: 780px;
+  color: #7B8A96;
+  text-align: justify;
+}
+
+.paragraphAnchor{
+  color: #165297;
+  cursor: pointer;
+}

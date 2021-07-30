@@ -1,0 +1,197 @@
+.flexBoxDisplay{
+  display: flex;
+  justify-content: center;
+}
+
+.centerAlignment{
+  align-items: center;
+}
+
+.imgFollowByParaContainer{
+  font-size: 1rem;
+    line-height: 1.5;
+    margin: 0 0 16px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.imagePara{
+  display: block;
+  float: left;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.ideaContainer{
+  background-color: #7397c1;
+  color: white;
+  padding-top: 15px;
+}
+
+.ideaImageContainer{
+  border-right: 1px solid white;
+  padding-right: 10px;
+  margin-bottom: 20px;
+}
+
+.sectionTwoGridStyling {
+  margin-left: 65px;
+  margin-right: 65px;
+  margin-top: 30px;
+}
+
+.ideasParaStyling{
+  max-width: 780px;
+  color: #7B8A96;
+}
+
+.widthSpecification{
+  margin-left: 125px;
+  max-width: 780px;
+}
+
+.zertifikatImageStyling{
+  margin-right: 10px;
+}
+
+.blueColor{
+  color: #165297;
+}
+
+.footerHeadings{
+  color: #165297;
+  font-weight: 600 !important;
+  margin-bottom: 20px !important;
+}
+
+.sectionTwoIconsContainerStyling{
+  margin-left: 20px;
+}
+
+.sectionTwoParaStyle{
+  font-size: .75rem;
+  line-height: 1.33333;
+  margin: 0 0 16px;
+  margin-bottom: 0;
+  margin-top: 16px;
+  color: #7B8A96;
+}
+
+.sectionTwoHeadng{
+  margin-top: 30px;
+  font-size: 1.5rem;
+  line-height: 1.33333;
+  color: #165297;
+}
+
+.sectionItemContainer{
+  min-height: 130px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.sectionTwoCarouselItemToDisplay{
+  width: 170px !important;
+  /* border: 2px solid black; */
+  display: block;
+  margin: 15px;
+}
+
+.sectionTwoRightBorder{
+  border-right: 1px solid #C0C7CD;
+}
+
+.chevronStyling{
+  color: #C0C7CD;
+  font-size: 30px !important;
+  cursor: pointer;
+}
+
+.contentContainer{
+  margin-top: 30px;
+}
+
+.ratingRatio{
+  color: #165297;
+}
+
+.letterSpacing{
+  letter-spacing: 2px
+}
+
+.leftSpacing{
+  margin-left: 10px;
+}
+
+.topMinusMargin{
+  margin-top: -10px;
+}
+
+.leftMinusMargin{
+  margin-left: -5px;
+}
+
+.letterSpacing1Px{
+  letter-spacing: 1px;
+}
+
+.centerAlignmentHeading{
+  margin-left: 65px;
+  margin-right: 65px;
+  text-align: center;
+  color: #165297;
+}
+
+.marginLeftRight{
+  margin-left: 65px;
+  margin-right: 65px;
+  /* text-align: center; */
+  align-items: center;
+}
+.paragraphStyleSection3{
+  max-width: 780px;
+  text-align: justify;
+}
+
+.paragraphAnchor{
+  color: #7B8A96 !important;
+  cursor: pointer;
+
+}
+
+.marginTop{
+  margin-top: 10px;
+}
+
+.bolder{
+  font-weight: 600 !important;
+}
+
+.phoneContainer{
+  border-radius: 100px;
+  display: flex;
+  align-items: center;
+  background-color: #F5F6F7;
+  cursor: pointer;
+}
+
+.phoneContainer:hover .roundCallButtonContainer{
+  border: 1px solid #165297;
+}
+
+.roundCallButtonContainer{
+  background-color: white;
+  align-items: center;
+  border: 2px solid #E5E8EA;
+  border-radius: 50%;
+  color: #165297;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  padding: 0;
+  transition: border-color 300ms;
+  width: 40px;
+  margin-right: 5px;
+}
